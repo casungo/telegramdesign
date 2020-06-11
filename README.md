@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+<a href="https://casungo.github.io/telegramdesign">https://casungo.github.io/telegramdesign</a>
+</h1>
 
-You can use the [editor on GitHub](https://github.com/casungo/telegramdesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="license" src="https://img.shields.io/github/license/casungo/telegramdesign"/></a>
+<a href="https://casungo.github.io/telegramdesign"><img alt="author" src="https://img.shields.io/badge/author-casungo-red"/></a>
+<br>
+<br>
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/casungo/telegramdesign?style=social">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/casungo/telegramdesign?style=social">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/casungo/telegramdesign?style=social">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
+Since Telegram hasn't a official Media Press Kit, I'm making one taking insiperation from <a href="https://about.twitter.com/en_us/company/brand-resources.html">Twitter Brand Resources</a> page
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contribute!
+If you want to help with the project, **go on**!
 
-```markdown
-Syntax highlighted code block
+**Fork the repo, modify the code or the images and submit a PR**.
 
-# Header 1
-## Header 2
-### Header 3
+Help, suggestions and improvements are **always welcome**!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Authors and acknowledgment
+**[casungo](https://casungo.github.io/casungo/)**: Mantainer of the website & repo
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casungo/telegramdesign/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+This repository uses the [CC0 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) License
