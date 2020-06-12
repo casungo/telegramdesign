@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://casungo.github.io/telegramdesign">https://casungo.github.io/telegramdesign</a>
+<a href="https://casungo.github.io/telegramdesign">Telegram Design Guidelines</a>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 ## Description
-Since Telegram hasn't a official Media Press Kit, I'm making one taking insiperation from <a href="https://about.twitter.com/en_us/company/brand-resources.html">Twitter Brand Resources</a> page
+Since Telegram hasn't a Brand Guideline, I'm making one taking insiperation from <a href="https://about.twitter.com/en_us/company/brand-resources.html">Twitter Brand Resources</a> page
 
 
 ## Contribute!
