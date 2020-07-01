@@ -10,10 +10,16 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/casungo/telegramdesign?style=social">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/casungo/telegramdesign?style=social">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/casungo/telegramdesign?style=social">
+<br>
+<br>
+<a href="https://github.com/casungo/telegramdesign/releases/download/v1.0/v1.0.zip">
+<img src="download.png" alt="Download zip" width="350px">
+</a>
 </p>
 
+
 ## Description
-Since Telegram hasn't a Brand Guideline, I'm making one taking insiperation from <a href="https://about.twitter.com/en_us/company/brand-resources.html">Twitter Brand Resources</a> page
+Since Telegram hasn't a Brand Guideline, I'm making one taking inspiration from <a href="https://about.twitter.com/en_us/company/brand-resources.html">Twitter Brand Resources</a> page
 
 
 ## Contribute!
@@ -25,7 +31,7 @@ Help, suggestions and improvements are **always welcome**!
 
 
 ## Authors and acknowledgment
-**[casungo](https://casungo.github.io/casungo/)**: Mantainer of the website & repo
+**[casungo](https://casungo.github.io/casungo/)**: Maintainer of the repo
 
 
 ## License
