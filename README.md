@@ -13,7 +13,7 @@
 <br>
 <br>
 <a href="https://github.com/casungo/telegramdesign/releases/download/v1.0/v1.0.zip">
-<img src="download.png" alt="Download zip" width="350px">
+<img src="download.svg" alt="Download zip" width="350px">
 </a>
 </p>
 
